@@ -29,7 +29,7 @@ max_date = day_df["dteday"].max()
 
 with st.sidebar:
     # Menambahkan logo sepeda
-    st.image('speda.png')
+    st.image('sepeda.png')
 
     
     # Mengambil start_date & end_date dari date_input
