@@ -13,8 +13,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
 
-day_df = pd.read_csv("C:/Users/My-Asus/proyek_analisis_data/final_task_data_analysis/data/day.csv")
-hour_df = pd.read_csv("C:/Users/My-Asus/proyek_analisis_data/final_task_data_analysis/data/hour.csv")
+day_df = pd.read_csv("day.csv")
+hour_df = pd.read_csv("hour.csv")
 
 datetime_columns = ["dteday"]
 day_df.sort_values(by="dteday", inplace=True)
@@ -29,7 +29,8 @@ max_date = day_df["dteday"].max()
 
 with st.sidebar:
     # Menambahkan logo sepeda
-    st.image("C:/Users/My-Asus/proyek_analisis_data/final_task_data_analysis/bike_vehicle_transport_icon_208509.png")
+    st.image('speda.png')
+
     
     # Mengambil start_date & end_date dari date_input
     start_date, end_date = st.date_input(
