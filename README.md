@@ -15,7 +15,10 @@ streamlit run dsbrd.py
 <>
 '''
 
-##Dashboard prewiew
+## Dashboard prewiew
 
 ![Reference Image](C:/Users/My-Asus/proyek_analisis_data/final_task_data_analysis/Screenshot_(733).png)
-![Reference Image](C:/Users/My-Asus/proyek_analisis_data/final_task_data_analysis/Screenshot_(734).png)![Reference Image](C:/Users/My-Asus/proyek_analisis_data/final_task_data_analysis/Screenshot_(735).png)
+
+![Reference Image](C:/Users/My-Asus/proyek_analisis_data/final_task_data_analysis/Screenshot_(734).png)
+
+![Reference Image](C:/Users/My-Asus/proyek_analisis_data/final_task_data_analysis/Screenshot_(735).png)
