@@ -13,8 +13,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
 
-day_df = pd.read_csv("/data/day.csv")
-hour_df = pd.read_csv("/data/hour.csv")
+day_df = pd.read_csv("https://raw.githubusercontent.com/yocimm/bike_sharing_dashboard/master/data/day.csv")
+hour_df = pd.read_csv("https://raw.githubusercontent.com/yocimm/bike_sharing_dashboard/master/data/hour.csv")
 
 datetime_columns = ["dteday"]
 day_df.sort_values(by="dteday", inplace=True)
