@@ -17,8 +17,8 @@ streamlit run dsbrd.py
 
 ## Dashboard prewiew
 
-![Reference Image](C:/Users/My-Asus/proyek_analisis_data/final_task_data_analysis/Screenshot_(733).png)
+![Reference Image](https://github.com/yocimm/bike_sharing_dashboard/blob/master/hasil/gambar-1.png?raw=true)
 
-![Reference Image](C:/Users/My-Asus/proyek_analisis_data/final_task_data_analysis/Screenshot_(734).png)
+![Reference Image](https://github.com/yocimm/bike_sharing_dashboard/blob/master/hasil/gambar-2.png?raw=true)
 
-![Reference Image](C:/Users/My-Asus/proyek_analisis_data/final_task_data_analysis/Screenshot_(735).png)
+![Reference Image](https://github.com/yocimm/bike_sharing_dashboard/blob/master/hasil/gambar-3.png?raw=true)
